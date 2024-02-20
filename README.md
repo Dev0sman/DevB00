@@ -1,7 +1,7 @@
 Hi! My name is Abdirahman Osman😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Ankara, Turkey.
+🌍  I am a Software Developer based in Ankara, Turkey.
 <br/>
 
 ### Skills
